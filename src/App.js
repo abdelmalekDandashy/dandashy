@@ -15,7 +15,7 @@ class App extends Component {
   }
   render() {
   
-     
+      // test
    
     const display= this.tab.map((x) => { return <Char element={x}/> })
    
